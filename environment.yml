@@ -9,3 +9,5 @@ dependencies:
   - pip:
     - -r requirements.txt
   - python>=3.9
+  - xeus-lua
+  - xeus-python
