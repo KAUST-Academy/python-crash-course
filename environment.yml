@@ -10,3 +10,5 @@ dependencies:
     - -r requirements.txt
   - pytest
   - python>=3.9
+  - xeus-lua
+  - xeus-python
